@@ -1,0 +1,32 @@
+name: Update pluginmaster.json
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - manifests
+      - scripts/build-pluginmaster.sh
+      - .github/workflows/update-pluginmaster.yml
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build pluginmaster.json
+        run: bash scripts/build-pluginmaster.sh manifests pluginmaster.json
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update pluginmaster.json"
+          file_pattern: pluginmaster.json
