@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/plugi
 
 ## Contact
 
-Discord: `a_risky_bed`
+Discord: `a_risky_bet`
