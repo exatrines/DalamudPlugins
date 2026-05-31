@@ -40,15 +40,15 @@
     "ImageUrl": ""
   },
   {
-    "Author": "exatrines",
+    "Author": "mirage",
     "Name": "DTR Overlay",
-    "Punchline": "ImGui overlay for Server Info Bar entries.",
-    "Description": "Replaces DTR plugin info with an ImGui overlay.",
+    "Punchline": "Customizable DTR overlay.",
+    "Description": "Create customizable DTR overlay.",
     "InternalName": "DTROverlay",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.2.0",
     "RepoUrl": "https://github.com/exatrines/DTROverlay",
-    "DownloadLinkInstall": "https://github.com/exatrines/DTROverlay/releases/download/v1.0.0.0/DTROverlay.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/DTROverlay/releases/download/v1.0.0.0/DTROverlay.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/DTROverlay/releases/download/v1.0.2.0/DTROverlay.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/DTROverlay/releases/download/v1.0.2.0/DTROverlay.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Tags": [
