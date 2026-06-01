@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - manifests
-      - scripts/build-pluginmaster.sh
+      - .github/scripts/build-pluginmaster.sh
       - .github/workflows/update-pluginmaster.yml
   workflow_dispatch:
   schedule:
@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build pluginmaster.json
-        run: bash scripts/build-pluginmaster.sh manifests pluginmaster.json
+        run: bash .github/scripts/build-pluginmaster.sh manifests pluginmaster.json
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
