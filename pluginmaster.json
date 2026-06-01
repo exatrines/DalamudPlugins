@@ -25,10 +25,10 @@
     "Punchline": "Customizable DTR overlay.",
     "Description": "Create customizable DTR overlay.",
     "InternalName": "DTROverlay",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.2.0.2",
     "RepoUrl": "https://github.com/exatrines/DTROverlay",
-    "DownloadLinkInstall": "https://github.com/exatrines/DTROverlay/releases/download/v1.2.0.1/DTROverlay.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/DTROverlay/releases/download/v1.2.0.1/DTROverlay.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/DTROverlay/releases/download/v1.2.0.2/DTROverlay.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/DTROverlay/releases/download/v1.2.0.2/DTROverlay.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Tags": [
