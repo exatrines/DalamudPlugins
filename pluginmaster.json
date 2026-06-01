@@ -1,62 +1,62 @@
-﻿[
-    {
-        "Author":  "mirage",
-        "Name":  "Auto Frontline",
-        "Punchline":  "Frontline automation plugin.",
-        "Description":  "Required plugins: vnavmesh, Rotation Solver Reborn.",
-        "InternalName":  "AutoFrontline",
-        "AssemblyVersion":  "1.1.0.2",
-        "RepoUrl":  "https://github.com/exatrines/AutoFrontline",
-        "DownloadLinkInstall":  "https://github.com/exatrines/AutoFrontline/releases/download/v1.1.0.2/AutoFrontline.zip",
-        "DownloadLinkUpdate":  "https://github.com/exatrines/AutoFrontline/releases/download/v1.1.0.2/AutoFrontline.zip",
-        "ApplicableVersion":  "any",
-        "DalamudApiLevel":  "15",
-        "Tags":  [
-                     "frontline",
-                     "pvp",
-                     "automation"
-                 ],
-        "IconUrl":  "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png?raw=true",
-        "ImageUrl":  ""
-    },
-    {
-        "Author":  "mirage",
-        "Name":  "DTR Overlay",
-        "Punchline":  "Customizable DTR overlay.",
-        "Description":  "Create customizable DTR overlay.",
-        "InternalName":  "DTROverlay",
-        "AssemblyVersion":  "1.1.0.1",
-        "RepoUrl":  "https://github.com/exatrines/DTROverlay",
-        "DownloadLinkInstall":  "https://github.com/exatrines/DTROverlay/releases/download/v1.1.0.1/DTROverlay.zip",
-        "DownloadLinkUpdate":  "https://github.com/exatrines/DTROverlay/releases/download/v1.1.0.1/DTROverlay.zip",
-        "ApplicableVersion":  "any",
-        "DalamudApiLevel":  "15",
-        "Tags":  [
-                     "ui",
-                     "dtr",
-                     "overlay"
-                 ],
-        "IconUrl":  "https://github.com/exatrines/DalamudPlugins/blob/main/assets/images/DTROverlayIcon.png?raw=true",
-        "ImageUrl":  ""
-    },
-    {
-        "Author":  "mirage",
-        "Name":  "Vending Machine",
-        "Punchline":  "Automated player trade vending",
-        "Description":  "Sell configured items for gil or buy offered items at configured prices during player trades.",
-        "InternalName":  "VendingMachine",
-        "AssemblyVersion":  "0.0.1.0",
-        "RepoUrl":  "https://github.com/exatrines/VendingMachine",
-        "DownloadLinkInstall":  "https://github.com/exatrines/VendingMachine/releases/download/v0.0.1.0/VendingMachine.zip",
-        "DownloadLinkUpdate":  "https://github.com/exatrines/VendingMachine/releases/download/v0.0.1.0/VendingMachine.zip",
-        "ApplicableVersion":  "any",
-        "DalamudApiLevel":  "15",
-        "Tags":  [
-                     "trade",
-                     "automation",
-                     "gil"
-                 ],
-        "IconUrl":  "",
-        "ImageUrl":  ""
-    }
+[
+  {
+    "Author": "mirage",
+    "Name": "Auto Frontline",
+    "Punchline": "Frontline automation plugin.",
+    "Description": "Required plugins: vnavmesh, Rotation Solver Reborn.",
+    "InternalName": "AutoFrontline",
+    "AssemblyVersion": "1.1.0.2",
+    "RepoUrl": "https://github.com/exatrines/AutoFrontline",
+    "DownloadLinkInstall": "https://github.com/exatrines/AutoFrontline/releases/download/v1.1.0.2/AutoFrontline.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/AutoFrontline/releases/download/v1.1.0.2/AutoFrontline.zip",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Tags": [
+      "frontline",
+      "pvp",
+      "automation"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png?raw=true",
+    "ImageUrl": ""
+  },
+  {
+    "Author": "mirage",
+    "Name": "DTR Overlay",
+    "Punchline": "Customizable DTR overlay.",
+    "Description": "Create customizable DTR overlay.",
+    "InternalName": "DTROverlay",
+    "AssemblyVersion": "1.1.0.1",
+    "RepoUrl": "https://github.com/exatrines/DTROverlay",
+    "DownloadLinkInstall": "https://github.com/exatrines/DTROverlay/releases/download/v1.1.0.1/DTROverlay.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/DTROverlay/releases/download/v1.1.0.1/DTROverlay.zip",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Tags": [
+      "ui",
+      "dtr",
+      "overlay"
+    ],
+    "IconUrl": "https://github.com/exatrines/DalamudPlugins/blob/main/assets/images/DTROverlayIcon.png?raw=true",
+    "ImageUrl": ""
+  },
+  {
+    "Author": "mirage",
+    "Name": "Vending Machine",
+    "Punchline": "Automated player trade vending",
+    "Description": "Sell configured items for gil or buy offered items at configured prices during player trades.",
+    "InternalName": "VendingMachine",
+    "AssemblyVersion": "0.0.1.0",
+    "RepoUrl": "https://github.com/exatrines/VendingMachine",
+    "DownloadLinkInstall": "https://github.com/exatrines/VendingMachine/releases/download/v0.0.1.0/VendingMachine.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/VendingMachine/releases/download/v0.0.1.0/VendingMachine.zip",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Tags": [
+      "trade",
+      "automation",
+      "gil"
+    ],
+    "IconUrl": "",
+    "ImageUrl": ""
+  }
 ]
