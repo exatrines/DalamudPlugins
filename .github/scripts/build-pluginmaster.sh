@@ -68,9 +68,9 @@ enrich_with_download_counts() {
     if [[ -n "$repo_url" ]]; then
       echo "Fetching download count for: $repo_url" >&2
       download_count="$(fetch_download_count "$repo_url")"
-      echo "$entry" | jq --argjson downloadCount "$download_count" '. + {downloadCount: $downloadCount}'
+      echo "$entry" | jq --argjson downloadCount "$download_count" '. + {DownloadCount: $downloadCount}'
     else
-      echo "$entry" | jq '. + {downloadCount: 0}'
+      echo "$entry" | jq '. + {DownloadCount: 0}'
     fi
   done | jq -s '.' > "$tmp_enriched"
 
