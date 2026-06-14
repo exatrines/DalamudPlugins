@@ -17,7 +17,8 @@
       "automation"
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
-    "ImageUrl": ""
+    "ImageUrl": "",
+    "downloadCount": 384
   },
   {
     "Author": "mirage",
@@ -37,7 +38,8 @@
       "overlay"
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/DTROverlayIcon.png",
-    "ImageUrl": ""
+    "ImageUrl": "",
+    "downloadCount": 86
   },
   {
     "Author": "mirage",
@@ -57,6 +59,7 @@
       "gil"
     ],
     "IconUrl": "",
-    "ImageUrl": ""
+    "ImageUrl": "",
+    "downloadCount": 13
   }
 ]
