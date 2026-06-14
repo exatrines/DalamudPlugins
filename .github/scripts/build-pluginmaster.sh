@@ -10,6 +10,73 @@ if [[ ! -f "$manifests_file" ]]; then
   exit 1
 fi
 
+fetch_download_count() {
+  local repo_url="$1"
+
+  if [[ "$repo_url" != https://github.com/* ]]; then
+    echo "0"
+    return 0
+  fi
+
+  local owner_repo="${repo_url#https://github.com/}"
+  owner_repo="${owner_repo%.git}"
+  owner_repo="${owner_repo%/}"
+
+  local curl_args=(
+    -fsSL
+    -H "Accept: application/vnd.github+json"
+    -H "X-GitHub-Api-Version: 2022-11-28"
+  )
+  if [[ -n "${GITHUB_TOKEN:-}" ]]; then
+    curl_args+=(-H "Authorization: Bearer ${GITHUB_TOKEN}")
+  fi
+
+  local total=0
+  local page=1
+
+  while true; do
+    local releases page_total release_count
+    if ! releases="$(
+      curl "${curl_args[@]}" \
+        "https://api.github.com/repos/${owner_repo}/releases?per_page=100&page=${page}"
+    )"; then
+      echo "Warning: failed to fetch releases for ${owner_repo}" >&2
+      echo "$total"
+      return 0
+    fi
+
+    page_total="$(echo "$releases" | jq '[.[].assets[].download_count] | add // 0')"
+    release_count="$(echo "$releases" | jq 'length')"
+    total=$((total + page_total))
+
+    if [[ "$release_count" -lt 100 ]]; then
+      break
+    fi
+    page=$((page + 1))
+  done
+
+  echo "$total"
+}
+
+enrich_with_download_counts() {
+  local file="$1"
+  local tmp_enriched
+  tmp_enriched="$(mktemp)"
+
+  jq -c '.[]' "$file" | while IFS= read -r entry; do
+    repo_url="$(echo "$entry" | jq -r '.RepoUrl // empty')"
+    if [[ -n "$repo_url" ]]; then
+      echo "Fetching download count for: $repo_url" >&2
+      download_count="$(fetch_download_count "$repo_url")"
+      echo "$entry" | jq --argjson downloadCount "$download_count" '. + {downloadCount: $downloadCount}'
+    else
+      echo "$entry" | jq '. + {downloadCount: 0}'
+    fi
+  done | jq -s '.' > "$tmp_enriched"
+
+  mv "$tmp_enriched" "$file"
+}
+
 jsons=()
 while IFS= read -r line || [[ -n "$line" ]]; do
   url="${line%%#*}"
@@ -24,6 +91,10 @@ if [[ ${#jsons[@]} -eq 0 ]]; then
   echo "[]" > "$output_file"
 else
   printf '%s\n' "${jsons[@]}" | jq -s '.' > "$output_file"
+fi
+
+if [[ -s "$output_file" ]] && [[ "$(jq 'length' "$output_file")" -gt 0 ]]; then
+  enrich_with_download_counts "$output_file"
 fi
 
 echo "Wrote ${#jsons[@]} entries to $output_file"
