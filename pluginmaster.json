@@ -5,10 +5,10 @@
     "Punchline": "Frontline automation plugin.",
     "Description": "Required plugins: vnavmesh, Rotation Solver Reborn.",
     "InternalName": "AutoFrontline",
-    "AssemblyVersion": "1.3.0.6",
+    "AssemblyVersion": "1.3.0.7",
     "RepoUrl": "https://github.com/exatrines/AutoFrontline",
-    "DownloadLinkInstall": "https://github.com/exatrines/AutoFrontline/releases/download/v1.3.0.6/AutoFrontline.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/AutoFrontline/releases/download/v1.3.0.6/AutoFrontline.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/AutoFrontline/releases/download/v1.3.0.7/AutoFrontline.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/AutoFrontline/releases/download/v1.3.0.7/AutoFrontline.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Tags": [
