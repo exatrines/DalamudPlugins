@@ -2,18 +2,17 @@
   {
     "Author": "mirage",
     "Name": "Oracle",
-    "Punchline": "Duty timeline cues for mitigation and skill timing.",
-    "Description": "Shows mitigation and skill timing cues as a timeline overlay. Matches zone, job, and scene; starts on countdown (-N) or combat.",
+    "Punchline": "Right skill. Right second. Every pull.",
+    "Description": "Build or import a timeline, auto-load by zone, job, and scene, then follow cues on list and major overlays with optional hotbar icon highlights.",
     "InternalName": "Oracle",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "RepoUrl": "https://github.com/exatrines/Oracle",
     "Tags": [
       "mitigation",
       "timeline",
-      "raid",
-      "tank"
+      "raid"
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/Oracle/main/Oracle/Data/plugin-icon.png",
     "ImageUrls": [
@@ -21,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
-    "DownloadCount": 0
+    "DownloadCount": 2
   },
   {
     "Author": "mirage",
