@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
-    "DownloadCount": 31
+    "DownloadCount": 37
   },
   {
     "Author": "mirage",
@@ -44,6 +44,26 @@
   },
   {
     "Author": "mirage",
+    "Name": "Goetia",
+    "Punchline": "Manual mark assist via party-aligned hotbar highlights.",
+    "Description": "Highlights mark-macro hotbar slots by party order for manual marking.",
+    "InternalName": "Goetia",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "RepoUrl": "https://github.com/exatrines/Goetia",
+    "Tags": [
+      "marking",
+      "hotbar",
+      "raid",
+      "ultimate"
+    ],
+    "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/latest/download/Goetia.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/latest/download/Goetia.zip",
+    "DownloadCount": 0
+  },
+  {
+    "Author": "mirage",
     "Name": "Auto Frontline",
     "Punchline": "Frontline automation plugin.",
     "Description": "Required plugins: vnavmesh, Rotation Solver Reborn.",
@@ -61,7 +81,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
     "ImageUrl": "",
-    "DownloadCount": 993
+    "DownloadCount": 994
   },
   {
     "Author": "mirage",
@@ -82,27 +102,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/DTROverlayIcon.png",
     "ImageUrl": "",
-    "DownloadCount": 128
-  },
-  {
-    "Author": "mirage",
-    "Name": "Vending Machine",
-    "Punchline": "Automated player trade vending",
-    "Description": "Sell configured items for gil or buy offered items at configured prices during player trades.",
-    "InternalName": "VendingMachine",
-    "AssemblyVersion": "0.0.1.0",
-    "RepoUrl": "https://github.com/exatrines/VendingMachine",
-    "DownloadLinkInstall": "https://github.com/exatrines/VendingMachine/releases/download/v0.0.1.0/VendingMachine.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/VendingMachine/releases/download/v0.0.1.0/VendingMachine.zip",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Tags": [
-      "trade",
-      "automation",
-      "gil"
-    ],
-    "IconUrl": "",
-    "ImageUrl": "",
-    "DownloadCount": 19
+    "DownloadCount": 129
   }
 ]
