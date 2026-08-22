@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
-    "DownloadCount": 140
+    "DownloadCount": 142
   },
   {
     "Author": "mirage",
@@ -40,7 +40,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 63
+    "DownloadCount": 64
   },
   {
     "Author": "mirage",
@@ -85,7 +85,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
     "ImageUrl": "",
-    "DownloadCount": 1018
+    "DownloadCount": 1019
   },
   {
     "Author": "mirage",
@@ -106,6 +106,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/DTROverlayIcon.png",
     "ImageUrl": "",
-    "DownloadCount": 138
+    "DownloadCount": 139
   }
 ]
