@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
-    "DownloadCount": 257
+    "DownloadCount": 263
   },
   {
     "Author": "mirage",
@@ -40,7 +40,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 66
+    "DownloadCount": 68
   },
   {
     "Author": "mirage",
@@ -65,7 +65,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
-    "DownloadCount": 2
+    "DownloadCount": 4
   },
   {
     "Author": "mirage",
@@ -131,6 +131,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/DTROverlayIcon.png",
     "ImageUrl": "",
-    "DownloadCount": 141
+    "DownloadCount": 143
   }
 ]
