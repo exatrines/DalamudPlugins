@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
-    "DownloadCount": 236
+    "DownloadCount": 245
   },
   {
     "Author": "mirage",
@@ -41,6 +41,31 @@
       "ui"
     ],
     "DownloadCount": 66
+  },
+  {
+    "Author": "mirage",
+    "Name": "Veilay",
+    "Punchline": "Hide models locally, clear the HUD, and lock the camera for cleaner overlays.",
+    "Description": "Hides player, pet, NPC, and enemy models without despawning them, so position-based overlays like Splatoon still track. Optionally replace models with dummies, hide selected HUD Layout elements, mute battle effects and target lines during duty replay, and lock the camera. Models, HUD, and camera each apply independently; character-config changes stay replay-only.",
+    "InternalName": "Veilay",
+    "AssemblyVersion": "0.1.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "RepoUrl": "https://github.com/exatrines/Veilay",
+    "Tags": [
+      "visibility",
+      "replay",
+      "overlay",
+      "camera",
+      "splatoon"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/exatrines/Veilay/main/Veilay/Data/plugin-icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/exatrines/Veilay/main/docs/screenshots/veilay-overlay-730x380.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
+    "DownloadCount": 0
   },
   {
     "Author": "mirage",
