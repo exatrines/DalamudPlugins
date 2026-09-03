@@ -5,7 +5,7 @@
     "Punchline": "Right skill. Right second. Every pull.",
     "Description": "Build or import a timeline, auto-load by zone, job, and scene, then follow cues on list and major overlays with optional hotbar icon highlights.",
     "InternalName": "Oracle",
-    "AssemblyVersion": "1.0.6.0",
+    "AssemblyVersion": "1.1.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "RepoUrl": "https://github.com/exatrines/Oracle",
@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
-    "DownloadCount": 447
+    "DownloadCount": 448
   },
   {
     "Author": "mirage",
