@@ -40,7 +40,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 70
+    "DownloadCount": 71
   },
   {
     "Author": "mirage",
@@ -110,7 +110,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
     "ImageUrl": "",
-    "DownloadCount": 1051
+    "DownloadCount": 1052
   },
   {
     "Author": "mirage",
@@ -131,6 +131,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/DTROverlayIcon.png",
     "ImageUrl": "",
-    "DownloadCount": 148
+    "DownloadCount": 149
   }
 ]
