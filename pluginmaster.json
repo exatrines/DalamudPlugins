@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.1/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.1/Oracle.zip",
-    "DownloadCount": 792
+    "DownloadCount": 812
   },
   {
     "Author": "mirage",
@@ -43,7 +43,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
-    "DownloadCount": 35
+    "DownloadCount": 36
   },
   {
     "Author": "mirage",
@@ -55,10 +55,10 @@
     "ImageUrls": [
       "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/docs/screenshots/en/overlay.png"
     ],
-    "AssemblyVersion": "1.0.3.0",
+    "AssemblyVersion": "1.0.4.0",
     "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.3.0/EnhancedQuickPanel.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.3.0/EnhancedQuickPanel.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.4.0/EnhancedQuickPanel.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.4.0/EnhancedQuickPanel.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Tags": [
@@ -66,7 +66,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 170
+    "DownloadCount": 183
   },
   {
     "Author": "mirage",
