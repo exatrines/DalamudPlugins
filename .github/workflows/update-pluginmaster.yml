@@ -6,11 +6,12 @@ on:
       - main
     paths:
       - manifests
-      - .github/scripts/build-pluginmaster.sh
+      - .github/scripts/build_pluginmaster.py
+      - .github/scripts/update_readme.py
       - .github/workflows/update-pluginmaster.yml
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
@@ -25,7 +26,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build pluginmaster.json
-        run: bash .github/scripts/build-pluginmaster.sh manifests pluginmaster.json README.md
+        run: python3 .github/scripts/build_pluginmaster.py manifests pluginmaster.json
+
+      - name: Update README plugins table
+        run: python3 .github/scripts/update_readme.py pluginmaster.json README.md
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
