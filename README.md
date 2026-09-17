@@ -22,5 +22,7 @@ https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/plugi
 
 ## Contact
 
-Discord: `a_risky_bet`
+Join our Discord for updates and support, or DM `a_risky_bet`.
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/gRfxXNZWMs)
 
