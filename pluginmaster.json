@@ -5,7 +5,7 @@
     "Punchline": "Right skill. Right second. Every pull.",
     "Description": "Build or import a timeline, auto-load by zone, job, and Phase preset, then follow cues on list and major overlays with optional hotbar icon highlights.",
     "InternalName": "Oracle",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.2.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "RepoUrl": "https://github.com/exatrines/Oracle",
@@ -18,9 +18,9 @@
     "ImageUrls": [
       "https://raw.githubusercontent.com/exatrines/Oracle/main/docs/screenshots/major-hotbar-highlight-730x380.png"
     ],
-    "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.1/Oracle.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.1/Oracle.zip",
-    "DownloadCount": 896
+    "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.2/Oracle.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.2/Oracle.zip",
+    "DownloadCount": 898
   },
   {
     "Author": "mirage",
@@ -55,10 +55,10 @@
     "ImageUrls": [
       "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/docs/screenshots/en/overlay.png"
     ],
-    "AssemblyVersion": "1.0.6.0",
+    "AssemblyVersion": "1.0.7.0",
     "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.6.0/EnhancedQuickPanel.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.6.0/EnhancedQuickPanel.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.7.0/EnhancedQuickPanel.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.7.0/EnhancedQuickPanel.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Tags": [
@@ -66,7 +66,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 275
+    "DownloadCount": 277
   },
   {
     "Author": "mirage",
