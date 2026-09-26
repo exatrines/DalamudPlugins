@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
-    "DownloadCount": 1207
+    "DownloadCount": 1209
   },
   {
     "Author": "mirage",
@@ -66,7 +66,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 400
+    "DownloadCount": 410
   },
   {
     "Author": "mirage",
@@ -99,7 +99,7 @@
     "Punchline": "Manual mark assist via party-aligned hotbar highlights.",
     "Description": "Highlights mark-macro hotbar slots by party order for manual marking.",
     "InternalName": "Goetia",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.1.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "RepoUrl": "https://github.com/exatrines/Goetia",
@@ -113,8 +113,8 @@
     "ImageUrls": [
       "https://raw.githubusercontent.com/exatrines/Goetia/main/docs/screenshots/party-highlight-1280x720.png"
     ],
-    "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/latest/download/Goetia.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/latest/download/Goetia.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
     "DownloadCount": 28
   },
   {
@@ -157,6 +157,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 287
+    "DownloadCount": 288
   }
 ]
