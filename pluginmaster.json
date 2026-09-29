@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
-    "DownloadCount": 1260
+    "DownloadCount": 1264
   },
   {
     "Author": "mirage",
@@ -55,10 +55,10 @@
     "ImageUrls": [
       "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/docs/screenshots/en/overlay.png"
     ],
-    "AssemblyVersion": "1.0.12.0",
+    "AssemblyVersion": "1.0.13.0",
     "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.12.0/EnhancedQuickPanel.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.12.0/EnhancedQuickPanel.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.13.0/EnhancedQuickPanel.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.13.0/EnhancedQuickPanel.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Tags": [
@@ -66,7 +66,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 513
+    "DownloadCount": 516
   },
   {
     "Author": "mirage",
@@ -115,7 +115,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
-    "DownloadCount": 41
+    "DownloadCount": 43
   },
   {
     "Author": "mirage",
@@ -157,6 +157,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 327
+    "DownloadCount": 330
   }
 ]
