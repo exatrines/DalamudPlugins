@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
-    "DownloadCount": 1268
+    "DownloadCount": 1271
   },
   {
     "Author": "mirage",
@@ -66,7 +66,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 546
+    "DownloadCount": 553
   },
   {
     "Author": "mirage",
@@ -91,7 +91,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
-    "DownloadCount": 35
+    "DownloadCount": 36
   },
   {
     "Author": "mirage",
