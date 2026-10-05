@@ -43,7 +43,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 631
+    "DownloadCount": 638
   },
   {
     "Author": "mirage, min",
@@ -51,13 +51,13 @@
     "Punchline": "Plugin context menu entries, off the game menu.",
     "Description": "Moves context menu entries added through Dalamud into a panel beside the game menu.",
     "InternalName": "EnhancedContextMenu",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "RepoUrl": "https://github.com/exatrines/EnhancedContextMenu",
     "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/EnhancedContextMenu/Data/plugin-icon.png",
-    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.1.0/EnhancedContextMenu.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.1.0/EnhancedContextMenu.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.1.1/EnhancedContextMenu.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.1.1/EnhancedContextMenu.zip",
     "ImageUrls": [
       "https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/docs/screenshots/hero-1280x720.png"
     ],
