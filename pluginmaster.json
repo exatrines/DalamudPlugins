@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
-    "DownloadCount": 1299
+    "DownloadCount": 1301
   },
   {
     "Author": "mirage",
@@ -43,7 +43,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 614
+    "DownloadCount": 631
   },
   {
     "Author": "mirage, min",
@@ -65,7 +65,7 @@
       "context menu",
       "ui"
     ],
-    "DownloadCount": 0
+    "DownloadCount": 2
   },
   {
     "Author": "mirage",
@@ -86,7 +86,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 367
+    "DownloadCount": 368
   },
   {
     "Author": "mirage",
@@ -109,7 +109,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
-    "DownloadCount": 63
+    "DownloadCount": 65
   },
   {
     "Author": "mirage",
@@ -158,7 +158,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
-    "DownloadCount": 41
+    "DownloadCount": 43
   },
   {
     "Author": "mirage",
