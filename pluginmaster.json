@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
-    "DownloadCount": 1298
+    "DownloadCount": 1299
   },
   {
     "Author": "mirage",
@@ -66,7 +66,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 609
+    "DownloadCount": 613
   },
   {
     "Author": "mirage",
@@ -158,5 +158,27 @@
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
     "ImageUrl": "",
     "DownloadCount": 366
+  },
+  {
+    "Author": "mirage, min",
+    "Name": "Enhanced Context Menu",
+    "Punchline": "Plugin context menu entries, off the game menu.",
+    "Description": "Moves context menu entries added through Dalamud into a panel beside the game menu.",
+    "InternalName": "EnhancedContextMenu",
+    "AssemblyVersion": "0.1.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "RepoUrl": "https://github.com/exatrines/EnhancedContextMenu",
+    "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/EnhancedContextMenu/Data/plugin-icon.png",
+    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.1.0/EnhancedContextMenu.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.1.0/EnhancedContextMenu.zip",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/docs/screenshots/hero-1280x720.png"
+    ],
+    "Tags": [
+      "context menu",
+      "ui"
+    ],
+    "DownloadCount": 0
   }
 ]

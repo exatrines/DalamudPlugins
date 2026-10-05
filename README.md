@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/plugi
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/Goetia/main/Goetia/Data/plugin-icon.png" width="50px"></div> | [Goetia](https://github.com/exatrines/Goetia) | Manual mark assist via party-aligned hotbar highlights. |
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png" width="50px"></div> | [Auto Frontline](https://github.com/exatrines/AutoFrontline) | Frontline automation plugin. |
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png" width="50px"></div> | [DTR Overlay](https://github.com/exatrines/DTROverlay) | Customizable DTR overlay. |
+| <div align="center"><img src="https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/EnhancedContextMenu/Data/plugin-icon.png" width="50px"></div> | [Enhanced Context Menu](https://github.com/exatrines/EnhancedContextMenu) | Plugin context menu entries, off the game menu. |
 <!-- PLUGINS_TABLE_END -->
 
 ## Contact
