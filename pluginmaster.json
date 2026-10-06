@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
-    "DownloadCount": 1303
+    "DownloadCount": 1304
   },
   {
     "Author": "mirage",
@@ -43,7 +43,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 664
+    "DownloadCount": 672
   },
   {
     "Author": "mirage, min",
@@ -51,13 +51,13 @@
     "Punchline": "Plugin context menu entries, off the game menu.",
     "Description": "Moves context menu entries added through Dalamud into a panel beside the game menu.",
     "InternalName": "EnhancedContextMenu",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.3.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "RepoUrl": "https://github.com/exatrines/EnhancedContextMenu",
     "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/EnhancedContextMenu/Data/plugin-icon.png",
-    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.3.0/EnhancedContextMenu.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.3.0/EnhancedContextMenu.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.3.1/EnhancedContextMenu.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.3.1/EnhancedContextMenu.zip",
     "ImageUrls": [
       "https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/docs/screenshots/hero-1280x720.png"
     ],
@@ -65,7 +65,7 @@
       "context menu",
       "ui"
     ],
-    "DownloadCount": 9
+    "DownloadCount": 16
   },
   {
     "Author": "mirage",
@@ -86,7 +86,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 371
+    "DownloadCount": 378
   },
   {
     "Author": "mirage",
@@ -133,7 +133,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
-    "DownloadCount": 52
+    "DownloadCount": 54
   },
   {
     "Author": "mirage",
@@ -179,6 +179,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
     "ImageUrl": "",
-    "DownloadCount": 1132
+    "DownloadCount": 1135
   }
 ]
