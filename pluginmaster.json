@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
-    "DownloadCount": 1314
+    "DownloadCount": 1316
   },
   {
     "Author": "mirage",
@@ -32,10 +32,10 @@
     "ImageUrls": [
       "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/docs/screenshots/en/overlay.png"
     ],
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.2.0.0",
     "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.1.1.0/EnhancedQuickPanel.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.1.1.0/EnhancedQuickPanel.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.2.0.0/EnhancedQuickPanel.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.2.0.0/EnhancedQuickPanel.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Tags": [
@@ -43,7 +43,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 675
+    "DownloadCount": 677
   },
   {
     "Author": "mirage, min",
@@ -65,7 +65,7 @@
       "context menu",
       "ui"
     ],
-    "DownloadCount": 26
+    "DownloadCount": 33
   },
   {
     "Author": "mirage",
@@ -73,10 +73,10 @@
     "Punchline": "Customizable DTR overlay.",
     "Description": "Create customizable DTR overlay.",
     "InternalName": "DTROverlay",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.1.0.0",
     "RepoUrl": "https://github.com/exatrines/DTROverlay",
-    "DownloadLinkInstall": "https://github.com/exatrines/DTROverlay/releases/download/v2.0.0.0/DTROverlay.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/DTROverlay/releases/download/v2.0.0.0/DTROverlay.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/DTROverlay/releases/download/v2.1.0.0/DTROverlay.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/DTROverlay/releases/download/v2.1.0.0/DTROverlay.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Tags": [
@@ -86,7 +86,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 382
+    "DownloadCount": 383
   },
   {
     "Author": "mirage",
@@ -179,6 +179,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
     "ImageUrl": "",
-    "DownloadCount": 1138
+    "DownloadCount": 1139
   }
 ]
