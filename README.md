@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/plugi
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/SlideGuide/main/SlideGuide/Data/plugin-icon.png" width="50px"></div> | [SlideGuide](https://github.com/exatrines/SlideGuide) | A slidecast marker over your native castbar. |
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/Goetia/main/Goetia/Data/plugin-icon.png" width="50px"></div> | [Goetia](https://github.com/exatrines/Goetia) | Manual mark assist via party-aligned hotbar highlights. |
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/Veilay/main/Veilay/Data/plugin-icon.png" width="50px"></div> | [Veilay](https://github.com/exatrines/Veilay) | Hide models locally, clear the HUD, and lock the camera for cleaner overlays. |
-| <div align="center"><img src="https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png" width="50px"></div> | [Auto Frontline](https://github.com/exatrines/AutoFrontline) | Frontline automation plugin. |
+| <div align="center"><img src="https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png" width="50px"></div> | [Auto Frontline](https://github.com/exatrines/AutoFrontline) | Frontline automation plugin. |
 <!-- PLUGINS_TABLE_END -->
 
 ## Contact

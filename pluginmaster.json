@@ -43,7 +43,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 725
+    "DownloadCount": 726
   },
   {
     "Author": "mirage, min",
@@ -166,10 +166,10 @@
     "Punchline": "Frontline automation plugin.",
     "Description": "Required plugins: vnavmesh, Rotation Solver Reborn.",
     "InternalName": "AutoFrontline",
-    "AssemblyVersion": "1.5.0.0",
+    "AssemblyVersion": "1.6.0.0",
     "RepoUrl": "https://github.com/exatrines/AutoFrontline",
-    "DownloadLinkInstall": "https://github.com/exatrines/AutoFrontline/releases/download/v1.5.0.0/AutoFrontline.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/AutoFrontline/releases/download/v1.5.0.0/AutoFrontline.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/AutoFrontline/releases/download/v1.6.0.0/AutoFrontline.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/AutoFrontline/releases/download/v1.6.0.0/AutoFrontline.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Tags": [
@@ -177,7 +177,7 @@
       "pvp",
       "automation"
     ],
-    "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
+    "IconUrl": "https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png",
     "ImageUrl": "",
     "DownloadCount": 1146
   }
