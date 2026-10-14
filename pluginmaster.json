@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.3.1/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.3.1/Oracle.zip",
-    "DownloadCount": 1602
+    "DownloadCount": 1605
   },
   {
     "Author": "mirage",
@@ -43,7 +43,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 851
+    "DownloadCount": 858
   },
   {
     "Author": "mirage, min",
@@ -65,7 +65,7 @@
       "context menu",
       "ui"
     ],
-    "DownloadCount": 160
+    "DownloadCount": 163
   },
   {
     "Author": "mirage",
@@ -86,7 +86,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 55
+    "DownloadCount": 59
   },
   {
     "Author": "mirage",
@@ -133,7 +133,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
-    "DownloadCount": 68
+    "DownloadCount": 69
   },
   {
     "Author": "mirage",
