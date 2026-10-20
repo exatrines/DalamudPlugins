@@ -43,7 +43,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 916
+    "DownloadCount": 917
   },
   {
     "Author": "mirage, min",
@@ -133,7 +133,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/download/v1.1.2/Goetia.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/download/v1.1.2/Goetia.zip",
-    "DownloadCount": 100
+    "DownloadCount": 101
   },
   {
     "Author": "mirage",
@@ -158,7 +158,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
-    "DownloadCount": 63
+    "DownloadCount": 64
   },
   {
     "Author": "mirage",
@@ -179,6 +179,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 53
+    "DownloadCount": 54
   }
 ]
