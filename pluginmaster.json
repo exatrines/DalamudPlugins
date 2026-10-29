@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.3.2/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.3.2/Oracle.zip",
-    "DownloadCount": 1831
+    "DownloadCount": 1832
   },
   {
     "Author": "mirage",
@@ -65,7 +65,7 @@
       "context menu",
       "ui"
     ],
-    "DownloadCount": 280
+    "DownloadCount": 281
   },
   {
     "Author": "mirage",
@@ -179,6 +179,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 79
+    "DownloadCount": 80
   }
 ]
