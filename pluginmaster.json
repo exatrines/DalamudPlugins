@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.3.3/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.3.3/Oracle.zip",
-    "DownloadCount": 1857
+    "DownloadCount": 1887
   },
   {
     "Author": "mirage",
@@ -43,7 +43,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 950
+    "DownloadCount": 953
   },
   {
     "Author": "mirage, min",
@@ -65,7 +65,7 @@
       "context menu",
       "ui"
     ],
-    "DownloadCount": 291
+    "DownloadCount": 297
   },
   {
     "Author": "mirage",
@@ -86,7 +86,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 177
+    "DownloadCount": 181
   },
   {
     "Author": "mirage",
@@ -179,6 +179,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 80
+    "DownloadCount": 83
   }
 ]
