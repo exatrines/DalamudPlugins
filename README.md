@@ -21,8 +21,6 @@ https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/plugi
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png" width="50px"></div> | [Auto Frontline](https://github.com/exatrines/AutoFrontline) | Frontline automation plugin. |
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/ReplayLibrary/main/ReplayLibrary/Data/plugin-icon.png" width="50px"></div> | [Replay Library](https://github.com/exatrines/ReplayLibrary) | Everything you need for replays—all in one place! |
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/ReplayLibrary/main/ReplayConverter/Data/plugin-icon.png" width="50px"></div> | Replay Converter | Convert and anonymize duty replays. |
-| <div align="center"><img src="https://raw.githubusercontent.com/exatrines/ReplayLibrary/main/ReplayLibrary/Data/plugin-icon.png" width="50px"></div> | [Replay Library](https://github.com/exatrines/ReplayLibrary) | Everything you need for replays—all in one place! |
-| <div align="center"><img src="https://raw.githubusercontent.com/exatrines/ReplayLibrary/main/ReplayConverter/Data/plugin-icon.png" width="50px"></div> | Replay Converter | Convert and anonymize duty replays. |
 <!-- PLUGINS_TABLE_END -->
 
 ## Contact
