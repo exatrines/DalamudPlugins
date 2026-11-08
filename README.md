@@ -19,6 +19,8 @@ https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/plugi
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/Goetia/main/Goetia/Data/plugin-icon.png" width="50px"></div> | [Goetia](https://github.com/exatrines/Goetia) | Manual mark assist via party-aligned hotbar highlights. |
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/Veilay/main/Veilay/Data/plugin-icon.png" width="50px"></div> | [Veilay](https://github.com/exatrines/Veilay) | Hide models locally, clear the HUD, and lock the camera for cleaner overlays. |
 | <div align="center"><img src="https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png" width="50px"></div> | [Auto Frontline](https://github.com/exatrines/AutoFrontline) | Frontline automation plugin. |
+| <div align="center"><img src="https://raw.githubusercontent.com/exatrines/ReplayLibrary/main/ReplayLibrary/Data/plugin-icon.png" width="50px"></div> | [Replay Library](https://github.com/exatrines/ReplayLibrary) | Everything you need for replays—all in one place! |
+| <div align="center"><img src="https://raw.githubusercontent.com/exatrines/ReplayLibrary/main/ReplayConverter/Data/plugin-icon.png" width="50px"></div> | Replay Converter | Convert and anonymize duty replays. |
 <!-- PLUGINS_TABLE_END -->
 
 ## Contact
