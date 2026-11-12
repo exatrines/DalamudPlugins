@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.3.4/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.3.4/Oracle.zip",
-    "DownloadCount": 2154
+    "DownloadCount": 2157
   },
   {
     "Author": "mirage",
@@ -43,7 +43,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 1193
+    "DownloadCount": 1195
   },
   {
     "Author": "mirage, min",
@@ -65,7 +65,7 @@
       "context menu",
       "ui"
     ],
-    "DownloadCount": 419
+    "DownloadCount": 421
   },
   {
     "Author": "mirage",
@@ -86,7 +86,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 316
+    "DownloadCount": 318
   },
   {
     "Author": "mirage",
@@ -179,7 +179,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 146
+    "DownloadCount": 148
   },
   {
     "Author": "mirage",
@@ -187,7 +187,7 @@
     "Punchline": "Everything you need for replays—all in one place!",
     "Description": "Records duty replays and manages them per content, with the other replay tools alongside.",
     "InternalName": "ReplayLibrary",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.2.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "RepoUrl": "https://github.com/exatrines/ReplayLibrary",
@@ -196,9 +196,9 @@
       "replay",
       "duty"
     ],
-    "DownloadLinkInstall": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.0/ReplayLibrary.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.0/ReplayLibrary.zip",
-    "DownloadCount": 22
+    "DownloadLinkInstall": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.2/ReplayLibrary.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.2/ReplayLibrary.zip",
+    "DownloadCount": 26
   },
   {
     "Author": "mirage",
@@ -206,12 +206,12 @@
     "Punchline": "Convert and anonymize duty replays.",
     "Description": "Signs in, then converts a replay to the current patch or anonymizes party names. Works on its own, with A Realm Recorded, or with Replay Library.",
     "InternalName": "ReplayConverter",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.2.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "IconUrl": "https://raw.githubusercontent.com/exatrines/ReplayLibrary/main/ReplayConverter/Data/plugin-icon.png",
-    "DownloadLinkInstall": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.1/ReplayConverter.zip",
-    "DownloadLinkUpdate": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.1/ReplayConverter.zip",
+    "DownloadLinkInstall": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.2/ReplayConverter.zip",
+    "DownloadLinkUpdate": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.2/ReplayConverter.zip",
     "Tags": [
       "replay",
       "duty"
