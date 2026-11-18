@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.3.4/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.3.4/Oracle.zip",
-    "DownloadCount": 2185
+    "DownloadCount": 2187
   },
   {
     "Author": "mirage",
@@ -43,7 +43,7 @@
       "commandpanel",
       "ui"
     ],
-    "DownloadCount": 1225
+    "DownloadCount": 1226
   },
   {
     "Author": "mirage, min",
@@ -179,7 +179,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 179
+    "DownloadCount": 180
   },
   {
     "Author": "mirage",
@@ -198,7 +198,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.3/ReplayLibrary.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.3/ReplayLibrary.zip",
-    "DownloadCount": 68
+    "DownloadCount": 70
   },
   {
     "Author": "mirage",
