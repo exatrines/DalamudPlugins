@@ -20,7 +20,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.3.4/Oracle.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.3.4/Oracle.zip",
-    "DownloadCount": 2206
+    "DownloadCount": 2208
   },
   {
     "Author": "mirage",
@@ -65,7 +65,7 @@
       "context menu",
       "ui"
     ],
-    "DownloadCount": 512
+    "DownloadCount": 513
   },
   {
     "Author": "mirage",
@@ -109,7 +109,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
-    "DownloadCount": 114
+    "DownloadCount": 115
   },
   {
     "Author": "mirage",
@@ -179,7 +179,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png",
     "ImageUrl": "",
-    "DownloadCount": 212
+    "DownloadCount": 215
   },
   {
     "Author": "mirage",
@@ -198,7 +198,7 @@
     ],
     "DownloadLinkInstall": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.6/ReplayLibrary.zip",
     "DownloadLinkUpdate": "https://github.com/exatrines/ReplayLibrary/releases/download/v0.1.6/ReplayLibrary.zip",
-    "DownloadCount": 123
+    "DownloadCount": 124
   },
   {
     "Author": "mirage",
